@@ -9,11 +9,8 @@ int main()
 	cout << MySub(10, 3) << endl;
 	cout << MyMul(10, 3) << endl;
 	cout << MyPow(10, 3) << endl;
-	double MyDiv(double a, double b)
-	{
-		return a / b;
-
-		system("pause");
-		return 0;
-	}
+	
+	system("pause");
+	return 0;
 }
+
